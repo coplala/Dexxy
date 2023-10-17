@@ -22,7 +22,7 @@ Please contact me through discord for inquiries.
 </p>
 
 <p align="center">
-  <img width="99" height="20" src="https://komarev.com/ghpvc/?username=JoonyWoony">
+  <img width="99" height="20" src="https://komarev.com/ghpvc/?username=coplala">
 </p>
 
 
