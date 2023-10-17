@@ -27,6 +27,6 @@ Please contact me through discord for inquiries.
 
 
 <p align="center">
-  <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=JoonyWoony&show_icons=true&theme=radical">
+  <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=coplala&show_icons=true&theme=radical">
 </p>
 
